@@ -2,7 +2,7 @@ preview
 <h1 align="center">Hi 👋, I'm Hữu Thắng</h1>
 <h3 align="center">A passionate frontend developer from Viet Nam</h3>
 
-- 🌱 I’m currently learning **ReactJS**
+- 🌱 I’m currently learning **Laravel**
 
 - 📫 How to reach me **huuthangblue0512@gmail.com**
 
